@@ -1,4 +1,4 @@
-#![feature(build_hasher_simple_hash_one)]
+// #![feature(build_hasher_simple_hash_one)]
 
 use anchor_lang::prelude::*;
 
